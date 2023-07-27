@@ -1165,7 +1165,7 @@ body .theme-button-one:hover {background:#000f32; }
   margin: 55px 0 0 0;
 }
 .faq-section .wrapper .img-box {
-  background: url(../images/home/13.jpg) no-repeat center center;
+  background: url(https://public-safety-agency-website.s3.amazonaws.com/presentation.webp) no-repeat center center;
   background-size: cover;
   border-radius: 5px 0 0 5px;
   position: relative;
