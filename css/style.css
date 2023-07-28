@@ -1145,7 +1145,7 @@ body .theme-button-one:hover {background:#000f32; }
 .our-case.our-project .single-case-block {margin-bottom: 40px;}
 /*------------------- Faq Section -------------------*/
 .faq-section {
-  background: url(../images/home/12.jpg) no-repeat center center;
+  background: url(https://public-safety-agency-website.s3.amazonaws.com/video+parralax+background+img.webp) no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
   background-color: #707d9e;
@@ -1165,7 +1165,7 @@ body .theme-button-one:hover {background:#000f32; }
   margin: 55px 0 0 0;
 }
 .faq-section .wrapper .img-box {
-  background: url(../images/home/13.jpg) no-repeat center center;
+  background: url(https://public-safety-agency-website.s3.amazonaws.com/presentation.webp) no-repeat center center;
   background-size: cover;
   border-radius: 5px 0 0 5px;
   position: relative;
@@ -1236,7 +1236,7 @@ body .theme-button-one:hover {background:#000f32; }
 }
 /*------------------ Short Banner ------------------*/
 .short-banner {
-  background: url(../images/home/14.jpg) no-repeat center center;
+  background: url(https://public-safety-agency-website.s3.amazonaws.com/Potential+background+parallax.webp) no-repeat center center;
   background-size: cover;
   background-color: #707d9e;
 }
