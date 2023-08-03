@@ -560,7 +560,7 @@ body .theme-button-one:hover {background:#000f32; }
 
 .about-compnay .mission-goal {
   /* Add 120 pixels of border to create top padding */
-  border-top: 120px solid #dcdcdc;
+  border-top: 120px solid #ffffff;
 }
 
 .about-compnay .mission-goal li {
