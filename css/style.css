@@ -554,19 +554,26 @@ body .theme-button-one:hover {background:#000f32; }
 .top-feature.fix-border .main-content {border-top: 4px solid transparent;border-bottom: none;}
 .top-feature.fix-border .main-content:hover {border-top-color: #001a57;}
 /*------------------ About Company -----------------*/
-.about-compnay img {border-radius: 5px;}
-.about-compnay .mission-goal {
-  border-top:120px solid #dcdcdc;
-  padding-top: 23px;
-  margin-top: 33px;
+.about-compnay img {
+  border-radius: 5px;
 }
+
+.about-compnay .mission-goal {
+  /* Add 120 pixels of border to create top padding */
+  border-top: 120px solid #dcdcdc;
+}
+
 .about-compnay .mission-goal li {
   float: left;
   width: 33.33333333%;
   text-align: center;
   position: relative;
 }
-.about-compnay .mission-goal li .icon {font-size: 55px;}
+
+.about-compnay .mission-goal li .icon {
+  font-size: 55px;
+}
+
 .about-compnay .mission-goal li:nth-child(2) {
   border-left: 1px dashed #c3c3c3;
   border-right: 1px dashed #c3c3c3;
