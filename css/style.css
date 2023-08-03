@@ -556,8 +556,8 @@ body .theme-button-one:hover {background:#000f32; }
 /*------------------ About Company -----------------*/
 .about-compnay img {border-radius: 5px;}
 .about-compnay .mission-goal {
-  border-top:1px solid #dcdcdc;
-  padding-top: 120px;
+  border-top:120px solid #dcdcdc;
+  padding-top: 23px;
   margin-top: 33px;
 }
 .about-compnay .mission-goal li {
