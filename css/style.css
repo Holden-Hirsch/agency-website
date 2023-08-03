@@ -580,7 +580,7 @@ body .theme-button-one:hover {background:#000f32; }
 }
 /*------------------ Feature Banner ---------------*/
 .feature-banner {
-  background: url(../images/home/2.jpg) no-repeat center center;
+  background: url(https://public-safety-agency-website.s3.amazonaws.com/home+page+parallax+banner.webp) no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
   background-color: #707d9e;
